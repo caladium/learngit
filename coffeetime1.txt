@@ -8,3 +8,4 @@ add a new line and commit it
 add another line after adding and before commiting.
 添加中文行然后提交
 再添加中文行但不增加和提交
+learning cmd checkout...
