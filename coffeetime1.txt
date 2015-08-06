@@ -15,3 +15,4 @@ remove file from git repository
 Now the coffee time coming again! Cherry~
 My first trial to edit in Github, and then i will pull it down to my local machine.
 嘿，看看中文怎样。
+推送可以，拉下来如何？/\*.
